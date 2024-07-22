@@ -1,2 +1,2 @@
 # Khan-demo
-Tis is my first gitHub repository.
+This is my first gitHub repository.
